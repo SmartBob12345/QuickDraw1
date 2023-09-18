@@ -1,0 +1,23 @@
+body{
+    background-color: cornflowerblue;
+    color: azure;
+    font-size: 28px;
+    font-weight: 300;
+}
+h1{
+    padding: 10px;
+    margin-top: 0;
+    background-color: azure;
+    color: black;
+    font-size: 36px;
+    font-weight: normal;
+}
+#score-label{
+    float: left;
+    margin-left: 100px;
+}
+#timer-label{
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
